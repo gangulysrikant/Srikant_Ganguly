@@ -3,15 +3,18 @@
 
 
 ## 🚀 About Me
-I'm a Data Scientist.
+I'm a Data Analyst.
 
 
 ## 🛠 Skills
 1. Python
-2. Machine Learning
-3. Deep Learning
-4. SQL
-5. Data Visualization
+2. SQL
+3. Power BI
+4. QLIK SENSE
+5. Machine Learning
+6. Data Analysis
+7. Data Visualization
+8. Delivering Reports and Presentations
 
 
 
@@ -22,7 +25,7 @@ I'm a Data Scientist.
 
 👯‍♀️ Masters in Data Science
 
-🤔 Data Analyst intern at Credit Agricole Consumer Finance.
+🤔 Data Analyst with more than 2 years of professional experience.
 
 💬 More details to follow...
 
